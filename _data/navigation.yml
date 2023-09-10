@@ -5,6 +5,12 @@ header:
   - titles:
       en:       About
     url:        /about.html
-  - title:      Team
+  - titles:      
+      en:       Team
     url:        /team.html
+  - titles:      
+      en:       Activities
+    url:        /activities.html
+
+  
 
