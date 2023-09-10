@@ -1,4 +1,4 @@
-## COding and Robotics Club of IISER Berhampur Webpage Development
+## Coding and Robotics Club of IISER Berhampur Webpage Development
 
 ### Roadmap:
 
